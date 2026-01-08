@@ -11,7 +11,7 @@ This project is a comprehensive simulation of an Operating System's Memory Manag
 
 The system is designed to visualize how different allocation strategies impact system resources and how multi-level caching improves data access times.
 
-![System Architecture Diagram](Screenshot 2026-01-08 222909.png)
+<img width="541" alt="System Architecture Diagram" src="https://github.com/user-attachments/assets/0bae3b3c-a049-451c-a603-ec0013e699f4" />
 
 ---
 
