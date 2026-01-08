@@ -11,7 +11,7 @@ This project is a comprehensive simulation of an Operating System's Memory Manag
 
 The system is designed to visualize how different allocation strategies impact system resources and how multi-level caching improves data access times.
 
-![System Architecture Diagram](path/to/your/diagram.png)
+![System Architecture Diagram](Screenshot 2026-01-08 222909.png)
 
 ---
 
@@ -44,7 +44,6 @@ The system is designed to visualize how different allocation strategies impact s
     * **Replacement Policies:** FIFO (First In First Out), LRU (Least Recently Used), LFU (Least Frequently Used).
     * Tracks hit/miss ratios per level.
 
-![Cache Hierarchy](path/to/cache_diagram.png)
 
 ### 4. Statistics
 * **Files:** `stats.hpp`, `stats.cpp`
